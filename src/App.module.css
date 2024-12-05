@@ -1,0 +1,8 @@
+@import "./vars.css";
+
+.App {
+  background-color: var(--color-bg);
+  width: 100%;
+  height: 100%;
+  overflow: hidden; /* hide the little blur at bottom of hero section to not let create a white space */
+}
